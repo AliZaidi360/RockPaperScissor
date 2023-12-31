@@ -1,4 +1,4 @@
-# RockPaperScissor
+RockPaperScissor
 
 rock = '''
     _______
